@@ -1,1 +1,1 @@
-# Badges.yay
+# Badges.
